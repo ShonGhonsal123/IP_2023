@@ -61,4 +61,3 @@ switch(choice){
     default:
         console.log("Wrong choice");
         break;
-}
